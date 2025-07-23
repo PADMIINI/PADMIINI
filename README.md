@@ -31,3 +31,4 @@
 <img src="https://github.com/PADMIINI/PADMIINI/blob/main/Animated_divider.gif" alt="animated divider" />
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<img src="https://github.com/PADMIINI/PADMIINI/blob/main/Animated_divider.gif" alt="animated divider" />
